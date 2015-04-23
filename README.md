@@ -16,8 +16,8 @@
 
  HTML
  
- 					<div class="icon-clima-1 {{ i.classe }}  display-item" title="{{ i.nome|default_if_none:"" }}">
-                        <a href="/area/{{i.url}}" style="color: white; width:100%;">
+ 					<div class="display-item" title="heheheh">
+                        <a href="/area/index.html" style="color: white; width:100%;">
                         
                             <div class="display-content" >                              
                                   <div style="width: 100%; min-height: 33px; clear: both;" class="tile_content">
